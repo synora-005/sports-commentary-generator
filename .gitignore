@@ -8,6 +8,6 @@ __pycache__/
 .pytest_cache/
 
 # Local data
-data/
+data/app.json
 *.db
 models/
