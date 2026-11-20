@@ -3,5 +3,6 @@ httpx
 pytest
 torch
 transformers
+peft
 datasets
 numpy
