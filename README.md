@@ -1,5 +1,7 @@
 # Sports Commentary Generator
 
+[![Built with askThili](https://msrit.ask.thili.ai/api/v1/public/projects/y49dqs38ha/badge.svg)](https://msrit.ask.thili.ai/b/y49dqs38ha)
+
 Adapts GPT-2 with **LoRA** to turn a simulated sports event into a short piece of live commentary, with a Streamlit UI
 that runs the **merged** model.
 
