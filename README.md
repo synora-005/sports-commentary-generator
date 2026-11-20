@@ -29,11 +29,11 @@ since hosted models cannot be LoRA-trained).
 `Football | 78' | Goal | Rivera (Red Lions) | Red Lions 2-1 Blue Hawks`
 
 ## Milestones
-- [ ] 1. Dataset (`app/core.py`, `data/commentary.jsonl`)
-- [ ] 2. LoRA injection + training (`app/lora.py`, `scripts/train.py`)
-- [ ] 3. Streamlit interface (`app/main.py`)
-- [ ] 4. Evaluation (`scripts/evaluate.py`, `EVALUATION.md`)
-- [ ] 5. Adapter merging (`merge_adapter`, `load_for_inference`)
+- [X] 1. Dataset (`app/core.py`, `data/commentary.jsonl`)
+- [X] 2. LoRA injection + training (`app/lora.py`, `scripts/train.py`)
+- [X] 3. Streamlit interface (`app/main.py`)
+- [X] 4. Evaluation (`scripts/evaluate.py`, `EVALUATION.md`)
+- [X] 5. Adapter merging (`merge_adapter`, `load_for_inference`)
 
 ## Results
 Paste the table from `EVALUATION.md` here after you run it.
